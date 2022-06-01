@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Documents\\GitHub\\My_CV_Website_Using_React"
+		},
+		{
+			"path": "..\\build"
+		},
+		{
+			"path": "..\\public"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "assests"
+		},
+		{
+			"path": "components"
+		},
+		{
+			"path": "components\\about"
+		},
+		{
+			"path": "components\\contacts"
+		},
+		{
+			"path": "components\\experience"
+		},
+		{
+			"path": "components\\footer"
+		},
+		{
+			"path": "components\\header"
+		},
+		{
+			"path": "components\\nav"
+		}
+	],
+	"settings": {}
+}
